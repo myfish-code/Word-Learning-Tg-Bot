@@ -13,4 +13,3 @@ disable = missing-function-docstring,
         missing-final-newline,
         used-before-assignment,
         bare-except,
-# Отключает лишнее предупреждения в коде 
