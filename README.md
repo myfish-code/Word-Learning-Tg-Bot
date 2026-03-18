@@ -55,7 +55,7 @@ The system relies on a relational structure to ensure data integrity:
    pip install aiogram asyncpg python-dotenv
   
 3. **Environment Setup:**
-   Create a .env file in the root directory and paste this:
+   *Create a .env file in the root directory and paste this:*
    ```bash
    BOT_TOKEN=your_tg_token
    DATABASE_URL=postgresql://user:password@localhost:5432/dbname
